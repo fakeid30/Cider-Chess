@@ -1,7 +1,9 @@
 ﻿  main.cpp
-f:\gitkraken clone\cider-chess\cider chess\main.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-f:\gitkraken clone\cider-chess\cider chess\main.cpp(79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-f:\gitkraken clone\cider-chess\cider chess\main.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-f:\gitkraken clone\cider-chess\cider chess\main.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(145): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(177): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(181): warning C4018: '<': signed/unsigned mismatch
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(227): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(239): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(240): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
   Cider Chess.vcxproj -> F:\Gitkraken Clone\Cider-Chess\Debug\Cider Chess.exe
   Cider Chess.vcxproj -> F:\Gitkraken Clone\Cider-Chess\Debug\Cider Chess.pdb (Partial PDB)
