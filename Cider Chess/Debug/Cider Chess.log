@@ -1,5 +1,7 @@
 ﻿  main.cpp
-c:\users\nirjh\documents\visual studio 2017\projects\cider chess\cider chess\main.cpp(33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-c:\users\nirjh\documents\visual studio 2017\projects\cider chess\cider chess\main.cpp(72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  Cider Chess.vcxproj -> C:\Users\nirjh\documents\visual studio 2017\Projects\Cider Chess\Debug\Cider Chess.exe
-  Cider Chess.vcxproj -> C:\Users\nirjh\documents\visual studio 2017\Projects\Cider Chess\Debug\Cider Chess.pdb (Partial PDB)
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(79): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+f:\gitkraken clone\cider-chess\cider chess\main.cpp(92): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Cider Chess.vcxproj -> F:\Gitkraken Clone\Cider-Chess\Debug\Cider Chess.exe
+  Cider Chess.vcxproj -> F:\Gitkraken Clone\Cider-Chess\Debug\Cider Chess.pdb (Partial PDB)
