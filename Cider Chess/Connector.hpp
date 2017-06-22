@@ -1,10 +1,10 @@
-#pragma once
+#ifndef CONNECTOR_H
+#define CONNECTOR_H
 
 #include <windows.h>
 #include <stdio.h>
 #include <iostream>
 #include <string>
-#include <filesystem>
 
 STARTUPINFO sti = { 0 };
 SECURITY_ATTRIBUTES sats = { 0 };
@@ -29,7 +29,7 @@ void ConnectToEngine(char* path)
 	sti.hStdOutput = pipout_w;
 	sti.hStdError = pipout_w;
 
-	//CreateProcess(NULL, path, NULL, NULL, TRUE, 0, NULL, NULL, &sti, &pi);
+	CreateProcess(NULL, path, NULL, NULL, TRUE, 0, NULL, NULL, &sti, &pi);
 }
 
 std::string getNextMove(std::string position)
@@ -65,3 +65,5 @@ void CloseConnection()
 	if (pi.hProcess != NULL) CloseHandle(pi.hProcess);
 	if (pi.hThread != NULL) CloseHandle(pi.hThread);
 }
+
+#endif CONNECTOR_H
